@@ -39,6 +39,7 @@ Esto instalará:
      │ ├── 📜 mysql_connector.py (Conexión y consultas a MySQL)
      │ ├── 📜 analysis.py (Exploración y limpieza de datos)
      │ ├── 📜 visualization.py (Gráficos y reportes)
+
 📌 4. Desarrollo Paso a Paso
 🔹 1️⃣ Carga de Datos desde CSV o Google Sheets (data_loader.py)
 📂 Opción 1: Cargar un archivo CSV
