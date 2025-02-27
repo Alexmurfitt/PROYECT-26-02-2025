@@ -1,1 +1,2 @@
-![image](https://github.com/user-attachments/assets/2745cb34-4050-401c-9017-207d0d2e8afd)
+ARCHIVOS CSV: Un archivo CSV (valores separados por comas) es un tipo especial de archivo que puede crear o editar en Excel. En lugar de almacenar la información en columnas, los archivos CSV almacenan datos separados por comas. Cuando el texto y los números se guardan en un archivo CSV, es fácil moverlos de un programa a otro.
+![image](https://github.com/user-attachments/assets/cd5a6436-9dec-43ca-9ba0-f28b9bb09ddd)
