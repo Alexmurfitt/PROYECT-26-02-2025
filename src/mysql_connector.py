@@ -6,7 +6,7 @@ def conectar_mysql():
         conn = mysql.connector.connect(
             host="127.0.0.1",  # Usa 127.0.0.1 en lugar de localhost
             user="root",
-            password="student2025",  # Usa la contraseña que hayas establecido
+            password="_______________",  # Usa la contraseña que hayas establecido
             database="test_db"  # Asegúrate de usar test_db, la base de datos correcta
         )
         print("✅ Conectado a MySQL.")
