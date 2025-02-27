@@ -1,0 +1,30 @@
+(base) reboot-student@reboot-student-ASUS-TUF-Gaming-F15-FX506HE-FX506HE:~/code/labs/PROYECTS/analisis-datos-python$ pip freeze > requirements.txt
+(base) reboot-student@reboot-student-ASUS-TUF-Gaming-F15-FX506HE-FX506HE:~/code/labs/PROYECTS/analisis-datos-python$ pip install -r requirements.txt
+Processing /croot/aiobotocore_1714464387507/work (from -r requirements.txt (line 1))
+ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: '/croot/aiobotocore_1714464387507/work'
+
+(base) reboot-student@reboot-student-ASUS-TUF-Gaming-F15-FX506HE-FX506HE:~/code/labs/PROYECTS/analisis-datos-python$ ls -l requirements.txt
+-rw-rw-r-- 1 reboot-student reboot-student 25886 Feb 27 10:39 requirements.txt
+(base) reboot-student@reboot-student-ASUS-TUF-Gaming-F15-FX506HE-FX506HE:~/code/labs/PROYECTS/analisis-datos-python$ head -n 20 requirements.txt
+aiobotocore @ file:///croot/aiobotocore_1714464387507/work
+aiohttp @ file:///croot/aiohttp_1715108769648/work
+aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+alabaster @ file:///croot/alabaster_1718201490751/work
+altair @ file:///work/perseverance-python-buildout/croot/altair_1698866618831/work
+anaconda-anon-usage @ file:///croot/anaconda-anon-usage_1710965072196/work
+anaconda-catalogs @ file:///work/perseverance-python-buildout/croot/anaconda-catalogs_1701755653155/work
+anaconda-client @ file:///croot/anaconda-client_1708640631824/work
+anaconda-cloud-auth @ file:///croot/anaconda-cloud-auth_1713991386423/work
+anaconda-navigator @ file:///croot/anaconda-navigator_1713464016024/work
+anaconda-project @ file:///croot/anaconda-project_1706049196717/work
+annotated-types @ file:///croot/annotated-types_1709542908624/work
+anyio @ file:///croot/anyio_1706220167567/work
+appdirs==1.4.4
+archspec @ file:///croot/archspec_1709217642129/work
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///work/perseverance-python-buildout/croot/argon2-cffi-bindings_1698877183685/work
+arrow @ file:///work/perseverance-python-buildout/croot/arrow_1698877225835/work
+astroid @ file:///work/perseverance-python-buildout/croot/astroid_1698851155125/work
+(base) reboot-student@reboot-student-ASUS-TUF-Gaming-F15-FX506HE-FX506HE:~/code/labs/PROYECTS/analisis-datos-python$ 
+
