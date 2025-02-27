@@ -38,4 +38,3 @@ else:
     print("No se obtuvieron resultados.")
 
 
-
