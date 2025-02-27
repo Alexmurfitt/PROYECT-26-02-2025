@@ -3,13 +3,16 @@ GUIA PARA PROYECTO
 📌 1. Descripción del Proyecto
 🎯 Objetivo
 
-Crear un programa en Python que permita: ✅ Cargar y limpiar datos desde CSV y Google Sheets
+Crear un programa en Python que permita: 
+
+✅ Cargar y limpiar datos desde CSV y Google Sheets
 ✅ Explorar y visualizar datos con Pandas y Matplotlib
 ✅ Conectar a una base de datos MySQL y realizar consultas
 ✅ Generar reportes en Google Looker Studio usando datos estructurados
 ✅ Usar GitHub para trabajo en equipo
 
-¿Qué aprenderán con este proyecto? ✔️ Manipulación de datos con Pandas
+¿Qué aprenderán con este proyecto? 
+✔️ Manipulación de datos con Pandas
 ✔️ Consultas SQL con MySQL
 ✔️ Integración con Google Sheets API
 ✔️ Creación de reportes con Looker Studio
